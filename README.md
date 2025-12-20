@@ -48,6 +48,7 @@ Hierarchy-aware inference combines **local (GAT)** and **global (path-based)** s
 
 - Fixed random seeds used throughout
 - Experiments can be run in order using the notebooks above`
+- .pth File Link = https://drive.google.com/drive/folders/1Vgz2qQqheWOmM5RH6pyxPqtEs8FzxIle?usp=sharing
 
 ---
 
